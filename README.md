@@ -1,3 +1,5 @@
+[简体中文](README_zh-CN.md)
+
 # Video Face Swap
 
 ## 1. Project Overview
