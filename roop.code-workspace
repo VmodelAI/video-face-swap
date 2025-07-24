@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - devroot",
+			"uri": "ssh://devroot/root/projects"
+		}
+	],
+	"settings": {}
+}
