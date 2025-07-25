@@ -154,7 +154,7 @@ cog login
 
 本项目的实现离不开以下优秀开源项目和团队的杰出工作，在此表示衷心的感谢：
 
-- **`s0md3v/roop`**: 提供了本项目所依赖的基础换脸框架。
-- **`deepinsight/insightface`**: 提供了 `inswapper` 引擎背后的核心研究和模型。
+- **`roop`**: 提供了本项目所依赖的基础换脸框架。
+- **`insightface`**: 提供了 `inswapper` 引擎背后的核心研究和模型。
 - **`TencentARC/GFPGAN`**: 提供了强大的人脸修复模型，极大地提升了输出质量。
 - **`replicate/cog`**: 提供了使模型封装和部署变得简单、可复现的关键工具。
