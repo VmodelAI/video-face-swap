@@ -153,7 +153,7 @@ This section is critically important to ensure responsible use and legal complia
 
 The realization of this project would not have been possible without the outstanding work of the following open-source projects and teams. We extend our sincere gratitude to:
 
--   **`s0md3v/roop`**: For providing the foundational face-swapping framework upon which this project is built.
--   **`deepinsight/insightface`**: For the core research and models behind the `inswapper` engine.
+-   **`sroop`**: For providing the foundational face-swapping framework upon which this project is built.
+-   **`insightface`**: For the core research and models behind the `inswapper` engine.
 -   **`TencentARC/GFPGAN`**: For the powerful face restoration model that significantly improves output quality.
 -   **`replicate/cog`**: For the essential tool that makes model packaging and deployment simple and reproducible.
